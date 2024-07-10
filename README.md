@@ -3,5 +3,5 @@
 ### Environnement technique
 
 - Back : NestJS
-- Front : Svelte
+- Front : React
 - Base de données : MYSQL
